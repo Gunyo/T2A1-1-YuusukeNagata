@@ -241,13 +241,39 @@ WHERE product_name="coffee"; /*Row to delete*/
 #
 
 ### Q12
-#### Conduct research into a marketplace website (app) and answer the following parts:  a. List and describe the software used by the app.
-  b. Describe the hardware used to host the app.
-  c. Describe the interaction of technologies within the app
-  d. Describe the way data is structured within the app
-  e. Identify entities which must be tracked by the app
-  f. Identify the relationships and associations between the entities you have identified in part (e)
-  g. Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)
+#### Conduct research into a marketplace website (app) and answer the following parts:  
+#### a. List and describe the software used by the app.
+#### b. Describe the hardware used to host the app.
+#### c. Describe the interaction of technologies within the app
+#### d. Describe the way data is structured within the app
+#### e. Identify entities which must be tracked by the app
+#### f. Identify the relationships and associations between the entities you have identified in part (e)
+#### g. Design a schema using an Entity Relationship Diagram (ERD) appropriate for the database of this website (assuming a relational database model)
+
+For this research, I have chosen Ebay which sells various goods from small businesses to individuals
+
+#
+
+A. List and describe the software used by the app.
+![Csoftware1](/img/software1.png)
+![Csoftware2](/img/software2.png)
+
+Javascript - JavaScript is the Programming Language for the Web.JavaScript can update and change both HTML and CSS.
+
+Node.js - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment
+
+#
+
+B. Describe the hardware used to host the app.
+
+Ebay is build on its own servers using Point of Presence (PoP) strategy, decentralizing the cluster of data centers scattered accross the US. They are also using NuData, a geo-distributed, fault-tolerant object and data store In the long run, this will allow eBay to disperse data globally provide data isolation solutions for countries that need them.
+
+#
+
+C. Describe the interaction of technologies within the app
+
+
+
 
 
 
